@@ -1,0 +1,27 @@
+name: publish
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        required: true
+      notes:
+        required: true
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      V: ${{ inputs.version }}
+      NOTES: ${{ inputs.notes }}
+    steps:
+      - name: Fetch
+        run: |
+          mkdir dist
+          gh release download "staging-$V" -R "$GITHUB_REPOSITORY" -D dist
+          cd dist && sha256sum -c SHA256SUMS.txt
+      - name: Publish
+        run: |
+          gh release delete "staging-$V" -R "$GITHUB_REPOSITORY" --yes
+          gh release create "v$V" dist/* -R "$GITHUB_REPOSITORY" --title "HanaView v$V" --notes "$NOTES" --latest
