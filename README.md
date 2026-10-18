@@ -6,7 +6,7 @@
 
 **Windows용 무료 통합 뷰어**입니다. 한글(HWP)·PDF·오피스 문서, 사진, 포토샵(PSD)·일러스트레이터(AI) 파일을 앱 하나로 봅니다.
 
-[**하나뷰 내려받기 · ssz.kr/hanaview**](https://hanaviewapp.com/?utm_source=github&utm_medium=referral&utm_campaign=repo)
+[**하나뷰 내려받기 · hanaviewapp.com**](https://hanaviewapp.com/?utm_source=github&utm_medium=referral&utm_campaign=repo)
 
 ## 하나뷰로 할 수 있는 것
 
