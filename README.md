@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://ssz.kr/img/share-hanaview.png?v=5" alt="하나뷰 HanaView 무료 통합 뷰어" width="640">
+  <img src="https://hanaviewapp.com/img/share-hanaview.png?v=5" alt="하나뷰 HanaView 무료 통합 뷰어" width="640">
 </p>
 
 # 하나뷰 (HanaView)
 
 **Windows용 무료 통합 뷰어**입니다. 한글(HWP)·PDF·오피스 문서, 사진, 포토샵(PSD)·일러스트레이터(AI) 파일을 앱 하나로 봅니다.
 
-[**하나뷰 내려받기 · ssz.kr/hanaview**](https://ssz.kr/above/hanaview/?utm_source=github&utm_medium=referral&utm_campaign=repo)
+[**하나뷰 내려받기 · ssz.kr/hanaview**](https://hanaviewapp.com/?utm_source=github&utm_medium=referral&utm_campaign=repo)
 
 ## 하나뷰로 할 수 있는 것
 
@@ -21,13 +21,13 @@
 
 - Windows 10 / 11 (64비트)
 - 설치 파일은 이 저장소의 [Releases](https://github.com/hanaviewapp/hanaview/releases/latest)에서도 받을 수 있습니다.
-- 설치할 때 「Windows에서 PC를 보호했습니다」 창이 뜨면 **추가 정보 → 실행**을 누르세요. 자세한 안내는 [홈페이지](https://ssz.kr/above/hanaview/?utm_source=github&utm_medium=referral&utm_campaign=repo)에 있습니다.
+- 설치할 때 「Windows에서 PC를 보호했습니다」 창이 뜨면 **추가 정보 → 실행**을 누르세요. 자세한 안내는 [홈페이지](https://hanaviewapp.com/?utm_source=github&utm_medium=referral&utm_campaign=repo)에 있습니다.
 
 ## English
 
 HanaView is a free all-in-one viewer for Windows. Open HWP, PDF and Office documents, images, PSD and AI files in a single app — no subscription, no sign-up.
 
-[Download HanaView](https://ssz.kr/above/hanaview/?utm_source=github&utm_medium=referral&utm_campaign=repo)
+[Download HanaView](https://hanaviewapp.com/?utm_source=github&utm_medium=referral&utm_campaign=repo)
 
 ## 블로그
 
